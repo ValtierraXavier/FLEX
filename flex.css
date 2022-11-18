@@ -1,0 +1,23 @@
+*{
+    border: solid blue;
+    background-color: lightblue;
+    font-size: 20px;
+    max-width: 50em;
+    max-height: 20px;
+}
+.container{
+    min-height: 400px;
+    display:flex;
+    justify-content: baseline;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+.card{
+    color: white;
+    background-color: gray;
+    padding: 2em;
+    text-align:left;
+    margin: 10px;
+
+}
+
